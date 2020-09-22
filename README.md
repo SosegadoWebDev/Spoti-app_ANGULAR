@@ -1,3 +1,6 @@
+![alt text](https://github.com/SosegadoWebDev/Spotify-app_ANGULAR/blob/master/src/assets/img/localhost_4500_%20(3).png)
+![alt text](https://github.com/SosegadoWebDev/Spotify-app_ANGULAR/blob/master/src/assets/img/localhost_4500_%20(4).png)
+
 # Spotiapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
